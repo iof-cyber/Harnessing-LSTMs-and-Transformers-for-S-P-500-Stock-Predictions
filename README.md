@@ -55,3 +55,10 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 
 ## Acknowledgements
 This project is part of the coursework for the Deep Learning course DS677. The project utilizes open-source libraries and datasets, and we acknowledge their respective authors and contributors.
+
+## References
+- [Transformer models for stock price prediction](https://arxiv.org/abs/2003.12840)
+- [Hugging Face Transformers Library](https://huggingface.co/transformers/)
+- [Keras LSTM Tutorial](https://keras.io/examples/nlp/lstm_seq2seq/)
+- [S&P 500 Dataset on Kaggle](https://www.kaggle.com/datasets/camnugent/sandp500)
+- [Project Repository](https://github.com/iof-cyber/Harnessing-LSTMs-and-Transformers-for-S-P-500-Stock-Predictions)
